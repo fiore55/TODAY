@@ -7,3 +7,11 @@ body {
 .barra-busqueda{
 background-color: #b4fd76;
 }
+#formContacto{
+    padding: 1,5em;
+    border: 1px salmon;
+    border-radius: 10px;
+}
+#formContacto div{
+    margin-left: 10px;
+}
